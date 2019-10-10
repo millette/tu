@@ -1,2 +1,3 @@
-include: ["_next", "_app.js", "_document.js"]
+# include: ["_next", "_app.js", "_document.js"]
+exclude: ["absolutely-thing-you-hear-me"]
 
